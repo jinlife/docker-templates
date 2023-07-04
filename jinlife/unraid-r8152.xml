@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/jinlife/unraid-r8125-r8152-driver/main/unraid-r8152.plg</PluginURL>
+  <PluginAuthor>jinlife</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Productivity: Tools:System Drivers:</Category>
+  <Name>RTL8152/3/4/6 USB Drivers</Name>
+  <Description>This package contains the Realtek OOT Drivers and installs them, a reboot is required after installing the plugin (upgrading to a newer Unraid version maybe needs a second reboot too).  
+ATTENTION: To utilize 2.5Gbit/s speeds you have to add this line at the bottom to your 'go' file: 'ethtool -s eth0 autoneg on advertise 0x80000000002f' (without quotes and modify eth0 to the corresponding adapter in your system)!  
+  
+The following Chipsets are supported by this driver: 
+Network Interface Controllers > 2.5G Gigabit Ethernet > USB 3.0
+    RTL8156 / RTL8156B(S)(G)
+
+Network Interface Controllers > 10/100/1000M Gigabit Ethernet > USB 3.0
+    RTL8153 / RTL8153B
+
+Network Interface Controllers > 10/100/1000M Gigabit Ethernet > USB 2.0
+    RTL8154 / RTL8154B
+
+Network Interface Controllers > 10/100M Fast Ethernet > USB 2.0
+    RTL8152B
+  
+Source: https://github.com/jinlife/unraid-r8125-r8152-driver</Description>
+  <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-and-r8152-drivers/</Support>
+  <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/realtek.png</Icon>
+</Containers>
