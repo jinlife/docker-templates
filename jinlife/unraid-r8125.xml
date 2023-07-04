@@ -22,6 +22,7 @@ Network Interface Controllers > 10/100M Fast Ethernet > PCI Express
   RTL8401/RTL8402
   
 Source: https://github.com/jinlife/unraid-r8125-r8152-driver</Description>
+  <ExtraSearchTerms>RTL8125 RTL8125B R8125 R8125B RTL8111 RTL8168 RTL8411 RTL8101 RTL8102 RTL8103 RTL8105 RTL8106 RTL8107 RTL8401</ExtraSearchTerms>
   <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-and-r8152-drivers/</Support>
   <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/realtek.png</Icon>
 </Containers>

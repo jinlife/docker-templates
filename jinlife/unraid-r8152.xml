@@ -22,6 +22,7 @@ Network Interface Controllers > 10/100M Fast Ethernet > USB 2.0
     RTL8152B
   
 Source: https://github.com/jinlife/unraid-r8125-r8152-driver</Description>
+  <ExtraSearchTerms>RTL8152 R8152 RTL8156 R8156 RTL8156B R8156B RTL8153 RTL8154</ExtraSearchTerms>
   <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-and-r8152-drivers/</Support>
   <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/realtek.png</Icon>
 </Containers>
