@@ -10,19 +10,9 @@
 The following Chipsets are supported by this driver: 
 Network Interface Controllers > 2.5G Gigabit Ethernet > PCI Express
   RTL8125 / RTL8125B(S)(G)
-
-Network Interface Controllers > 10/100/1000M Gigabit Ethernet > PCI Express
-  RTL8111B/RTL8111C/RTL8111D/RTL8111E/RTL8111F/RTL8111G(S)/RTL8111H(S)//RTL8118(A)(S)/RTL8119i/RTL8111L/RTL8111K
-  RTL8168B/RTL8168E/RTL8168H
-  RTL8111DP/RTL8111EP/RTL8111FP
-  RTL8411/RTL8411B
-
-Network Interface Controllers > 10/100M Fast Ethernet > PCI Express
-  RTL8101E/RTL8102E/RTL8103E/RTL8105E/RTL8106E/RTL8107E
-  RTL8401/RTL8402
   
 Source: https://github.com/jinlife/unraid-r8125-r8152-driver</Description>
-  <ExtraSearchTerms>RTL8125 RTL8125B R8125 R8125B RTL8111 RTL8168 RTL8411 RTL8101 RTL8102 RTL8103 RTL8105 RTL8106 RTL8107 RTL8401</ExtraSearchTerms>
+  <ExtraSearchTerms>RTL8125 RTL8125B R8125 R8125B</ExtraSearchTerms>
   <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-and-r8152-drivers/</Support>
   <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/realtek.png</Icon>
 </Containers>
