@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/jinlife/unraid-r8125-r8152-driver/main/unraid-r8168.plg</PluginURL>
+  <PluginAuthor>jinlife</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Productivity: Tools:System Drivers:</Category>
+  <Name>RTL8168(B)\RTL8111(B) PCI Drivers</Name>
+  <Description>This package contains the Realtek OOT Drivers and installs them, a reboot is required after installing the plugin (upgrading to a newer Unraid version maybe needs a second reboot too).  
+
+The following Chipsets are supported by this driver: 
+Network Interface Controllers > 10/100/1000M Gigabit Ethernet > PCI Express
+
+  RTL8111B/RTL8111C/RTL8111D/RTL8111E/RTL8111F/RTL8111G(S)/RTL8111H(S)//RTL8118(A)(S)/RTL8119i/RTL8111L/RTL8111K
+
+  RTL8168B/RTL8168E/RTL8168H
+
+  RTL8111DP/RTL8111EP/RTL8111FP
+
+  RTL8411/RTL8411B
+  
+Source: https://github.com/jinlife/unraid-r8125-r8152-driver</Description>
+  <ExtraSearchTerms>Realtek RTL8168 RTL8168B R8168 R8168B RTL8111 RTL8111B R8111 R8111B</ExtraSearchTerms>
+  <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-and-r8152-drivers/</Support>
+  <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/realtek.png</Icon>
+</Containers>
