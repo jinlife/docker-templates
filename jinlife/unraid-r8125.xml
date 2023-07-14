@@ -13,6 +13,6 @@ Network Interface Controllers > 2.5G Gigabit Ethernet > PCI Express
   
 Source: https://github.com/jinlife/unraid-r8125-r8152-driver</Description>
   <ExtraSearchTerms>Realtek RTL8125 RTL8125B R8125 R8125B</ExtraSearchTerms>
-  <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-and-r8152-drivers/</Support>
+  <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-r8168-and-r8152-drivers/</Support>
   <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/realtek.png</Icon>
 </Containers>

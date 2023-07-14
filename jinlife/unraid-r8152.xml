@@ -16,6 +16,6 @@ Network Interface Controllers > 2.5G Gigabit Ethernet > USB 3.0
   
 Source: https://github.com/jinlife/unraid-r8125-r8152-driver</Description>
   <ExtraSearchTerms>Realtek RTL8156 R8156 RTL8156B R8156B</ExtraSearchTerms>
-  <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-and-r8152-drivers/</Support>
+  <Support>https://forums.unraid.net/topic/141349-plugin-realtek-r8125-r8168-and-r8152-drivers/</Support>
   <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/realtek.png</Icon>
 </Containers>
