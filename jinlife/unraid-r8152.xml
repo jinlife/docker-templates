@@ -4,12 +4,16 @@
   <PluginAuthor>jinlife</PluginAuthor>
   <Beta>False</Beta>
   <Category>Productivity: Tools:System Drivers:</Category>
-  <Name>RTL8156(B) USB Drivers</Name>
+  <Name>RTL8156(B) RTL8157 USB Drivers</Name>
   <Description>This package contains the Realtek OOT Drivers and installs them, a reboot is required after installing the plugin (upgrading to a newer Unraid version maybe needs a second reboot too).  
-ATTENTION: To utilize 2.5Gbit/s speeds you have to add this line at the bottom to your 'go' file: 
+ATTENTION: 
+To utilize 2.5Gbit/s speeds you have to add this line at the bottom to your 'go' file: 
 'ethtool -s eth0 autoneg on advertise 0x80000000002f'
 (without quotes and modify eth0 to the corresponding adapter in your system)!  
-  
+
+To utilize 5Gbit/s speeds you have to add this line at the bottom to your 'go' file: 
+'ethtool -s eth0 autoneg on advertise 0x180000000002f'
+
 The following Chipsets are supported by this driver: 
 Network Interface Controllers > 5G Gigabit Ethernet > USB 3.0
     RTL8157
